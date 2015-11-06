@@ -1,5 +1,5 @@
 # Text-Classification-Information-Retrieval
-This project contains python code for text classification project.
+This project contains python code for the Text Classification project.
 
 This is an exercise of text classification, through the platform of an online data science competition:
 https://inclass.kaggle.com/c/umich-si650-forum-message-classification.
